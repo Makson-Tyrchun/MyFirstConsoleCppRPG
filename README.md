@@ -17,3 +17,9 @@ Run Instructions:
 1. Clone the repository.
 2. Open in CLion or any CMake-supported IDE[cite: 11].
 3. Build and run main.cpp[cite: 2, 11].
+
+Future improvements:
+- Different hero classes (Mage, Assassin, Tank)
+- Inventory system
+- Improved combat system
+- SFML graphical version
